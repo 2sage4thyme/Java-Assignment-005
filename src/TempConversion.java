@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class TempConversion {
+    String proof = "I am modifying things";
     static final Scanner input = new Scanner(System.in);
 
     public static double convertC2F(double celsius) {
